@@ -1,6 +1,8 @@
 # MacOS, Windows, Ubuntu
 
-Please download the right archive to your local computer, extract and run 'baangt' inside the new folder
+Please download the right archive to your local computer, extract and run 'baangt' inside the new folder.
+
+If you want to run on Windows, you can use the baangt Windows installer.
 
 ## More info:
 https://baangt.readthedocs.io/en/latest/Installation.html
